@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+}
+#title{
+  float : left;
+  width : 70%;
+}
+#header_w{
+  width: 100%;
+  margin-bottom: 80px;
+}
+#menu{
+  float : left;
+}
+#body_w{
+  clear : both;
+  width : 100%;
+}
+#side{
+  float : left;
+  width : 30%
+}
+#content{
+  float : left;
+  text-align : left;
+}
